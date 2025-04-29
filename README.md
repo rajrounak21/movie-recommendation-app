@@ -30,7 +30,7 @@ A content-based movie recommendation web app built using Python, Streamlit, and 
 - **Frontend:** Streamlit
 - **Backend:** Python
 - **Libraries:** Pandas, NumPy, scikit-learn, joblib, requests, NLTK
-- **API:** [The Movie Database (TMDb)]([https://www.themoviedb.org/](http://kaggle.com/datasets/tmdb/tmdb-movie-metadata))
+- **Dataset link:**((http://kaggle.com/datasets/tmdb/tmdb-movie-metadata))
 
 ## 🗂️ Project Structure
 
